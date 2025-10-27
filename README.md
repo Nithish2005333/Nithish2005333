@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nithishwaran</h1>
+<p align="center">
+  <img src="./Nithish.svg" alt="animated name"/>
+</p>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🔭 I’m currently working on [PlacementApp](https://placementapp-0htf.onrender.com/)
