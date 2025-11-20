@@ -1,4 +1,4 @@
-<svg width="560" height="150" viewBox="0 0 560 150" xmlns="http://www.w3.org/2000/svg">
+<svg width="720" height="190" viewBox="0 0 720 190" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <!-- Soft glassy ink gradient -->
@@ -8,9 +8,9 @@
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0.85"/>
     </linearGradient>
 
-    <!-- Very soft glow -->
+    <!-- Soft glow -->
     <filter id="softGlow">
-      <feGaussianBlur stdDeviation="1.4" result="blur"/>
+      <feGaussianBlur stdDeviation="1.6" result="blur"/>
       <feBlend in="SourceGraphic" in2="blur" mode="screen"/>
     </filter>
   </defs>
@@ -18,27 +18,28 @@
   <style>
     text {
       font-family: "Segoe Script", "Brush Script MT", cursive;
-      font-size: 50px;
+      font-size: 65px;
       fill: none;
       stroke: url(#glass);
-      stroke-width: 1.8;
+      stroke-width: 2.1;
       filter: url(#softGlow);
       stroke-linecap: round;
       stroke-linejoin: round;
 
-      /* handwriting animation */
-      stroke-dasharray: 2600;
-      stroke-dashoffset: 2600;
-      animation: write 4.6s ease-out forwards;
+      /* infinite handwriting animation */
+      stroke-dasharray: 3200;
+      stroke-dashoffset: 3200;
+      animation: write 5s ease-in-out infinite;
     }
 
     @keyframes write {
-      to { stroke-dashoffset: 0; }
+      0%   { stroke-dashoffset: 3200; }
+      50%  { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: 3200; }
     }
   </style>
 
   <!-- Text -->
-  <text x="25" y="100">I'm Nithishwaran 👋🏻</text>
+  <text x="35" y="120">I'm Nithishwaran 👋🏻</text>
 
 </svg>
-
