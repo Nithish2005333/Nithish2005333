@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at  
   <a href="https://nithish-portfolio-sigma.vercel.app/">
-    https://nithishwaran-portfolio-60044154955.development.catalystserverless.in
+    https://nithish-portfolio-sigma.vercel.app/
   </a>
 
 - 📫 How to reach me: **nithishwaran2005333@gmail.com**
