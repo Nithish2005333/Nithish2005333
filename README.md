@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on <a href="https://placementapp-0htf.onrender.com/">PlacementApp</a>
 
 - 👨‍💻 All of my projects are available at  
-  <a href="https://nithishwaran-portfolio-60044154955.development.catalystserverless.in/app/index.html">
+  <a href="https://nithish-portfolio-sigma.vercel.app/">
     https://nithishwaran-portfolio-60044154955.development.catalystserverless.in
   </a>
 
