@@ -1,45 +1,51 @@
-````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0F172A,100:1E3A8A&text=Nithishwaran&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:0F172A,50:1E293B,75:1D4ED8,100:3B82F6&text=Nithishwaran&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Developer%20%7C%20UI%20Architect&descAlignY=58"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+Premium+Web+Experiences;MERN+Stack+Developer;Scalable+Applications+%26+Modern+UI;Clean+Architecture+Focused"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+Modern+Digital+Experiences;Creating+Premium+UI%2FUX+Interfaces;Scalable+MERN+Stack+Applications;Passionate+Full+Stack+Developer"/>
 
 <br/><br/>
 
 <a href="https://github.com/nithishwaran">
-<img src="https://img.shields.io/github/followers/nithishwaran?style=for-the-badge&logo=github&labelColor=020617&color=1E3A8A"/>
+<img src="https://img.shields.io/github/followers/nithishwaran?style=for-the-badge&logo=github&labelColor=020617&color=2563EB"/>
 </a>
 
 <a href="https://github.com/nithishwaran">
-<img src="https://img.shields.io/github/stars/nithishwaran?style=for-the-badge&logo=github&labelColor=020617&color=2563EB"/>
+<img src="https://img.shields.io/github/stars/nithishwaran?style=for-the-badge&logo=github&labelColor=020617&color=1D4ED8"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=nithishwaran&style=for-the-badge&color=1D4ED8"/>
+<img src="https://komarev.com/ghpvc/?username=nithishwaran&style=for-the-badge&color=2563EB"/>
 
 </div>
 
 ---
 
-# About Me
+<div align="center">
+
+# ABOUT ME
+
+</div>
+
+<table align="center">
+<tr>
+<td width="55%">
 
 ```ts
-const developer = {
-  name: "Nithishwaran",
+const nithishwaran = {
   role: "Full Stack Developer",
-  location: "India",
 
-  specialization: [
-    "MERN Stack Development",
+  focus: [
     "Modern UI/UX",
-    "Scalable Applications"
+    "Scalable Applications",
+    "Clean Architecture",
+    "Performance Optimization"
   ],
 
-  currentlyWorking: "PlacementApp",
+  currentlyWorkingOn: "PlacementApp",
 
-  technologies: {
+  techStack: {
     frontend: [
       "React",
       "Next.js",
@@ -58,117 +64,81 @@ const developer = {
     ]
   },
 
-  currentlyLearning: [
-    "Advanced Backend Systems",
-    "Cloud Deployment",
+  learning: [
+    "Cloud Architecture",
+    "Advanced Backend",
     "System Design"
   ]
 }
-````
+```
+
+</td>
+
+<td width="45%">
+
+<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Connect
-
 <div align="center">
 
+# CONNECT
+
+<br/>
+
 <a href="https://nithish-portfolio-sigma.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://placementapp-0htf.onrender.com/">
-<img src="https://img.shields.io/badge/Live_Project-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE_PROJECT-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:nithishwaran2005333@gmail.com">
-<img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/nithishwaran-a-05655725b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/itzz_nithish_">
-<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# Tech Stack
+<div align="center">
+
+# TECH STACK
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,python,java,git,github,figma,postman,vscode,vercel&perline=10"/>
+
+</div>
+
+---
 
 <div align="center">
 
-### Frontend
+# GITHUB ANALYTICS
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8"/>
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nithishwaran&show_icons=true&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=2563EB&text_color=CBD5E1"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nithishwaran&hide_border=true&background=020617&ring=3B82F6&fire=2563EB&currStreakLabel=93C5FD"/>
 
 <br/><br/>
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java&perline=4"/>
-
-<br/><br/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=3"/>
-
-<br/><br/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel,babel,arduino&perline=8"/>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nithishwaran&show_icons=true&hide_border=true&bg_color=020617&title_color=3B82F6&icon_color=2563EB&text_color=CBD5E1"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nithishwaran&hide_border=true&background=020617&ring=2563EB&fire=3B82F6&currStreakLabel=93C5FD"/>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithishwaran&bg_color=020617&color=93C5FD&line=2563EB&point=FFFFFF&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nithishwaran&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# Quote
-
-<div align="center">
-
-<h3>
-Building premium digital experiences with clean code and modern architecture.
-</h3>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithishwaran&bg_color=020617&color=93C5FD&line=3B82F6&point=FFFFFF&hide_border=true"/>
 
 </div>
 
@@ -176,7 +146,54 @@ Building premium digital experiences with clean code and modern architecture.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1E3A8A,50:0F172A,100:020617"/>
+# TROPHIES
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nithishwaran&theme=algolia&no-frame=true&no-bg=true&margin-w=18&margin-h=18&column=4"/>
 
 </div>
-```
+
+---
+
+<div align="center">
+
+# CONTRIBUTION SNAKE
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# QUOTE
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# SUPPORT
+
+<br/>
+
+If you like my work and projects, consider following my profile and connecting with me.
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:3B82F6,25:1D4ED8,50:0F172A,75:020617,100:000000"/>
+
+</div>
