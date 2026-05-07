@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2300&pause=1000&color=38BDF8&center=true&vCenter=true&width=1100&lines=Building+Modern+Digital+Experiences;Fullstack+Developer+from+India;React+%2B+Node.js+Engineer;Crafting+Premium+UI%2FUX+Interfaces;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1100&lines=Building+Modern+Digital+Experiences;Fullstack+Developer+from+India;React+%2B+Node.js+Engineer;Crafting+Premium+UI%2FUX+Interfaces;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -134,7 +134,7 @@ Modern placement preparation system with authentication, eligibility checking, p
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2600&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+Development;Backend+Architecture;Responsive+UI+Design;REST+API+Development;Database+Management"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=22&duration=2600&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+Development;Backend+Architecture;Responsive+UI+Design;REST+API+Development;Database+Management"/>
 
 </div>
 
@@ -275,16 +275,24 @@ Deployment
 
 <div align="center">
 
-<h2>Thanks for visiting my profile 👨‍💻</h2>
+<h1>Thanks for visiting my profile 👨‍💻</h1>
 
-<p>
+<p align="center" width="80%">
 Passionate about building modern web applications, creating premium UI experiences,
 and continuously learning new technologies to improve every day.
 </p>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Keep+Building+🚀;Keep+Learning+💡;Keep+Growing+⚡;Have+an+Amazing+Day+✨"/>
+<img 
+src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Keep+Building+🚀;Keep+Learning+💡;Keep+Growing+⚡;Have+an+Amazing+Day+✨" 
+alt="Typing SVG" 
+/>
+
+<br/>
+<br/>
+
+<img width="85%" src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:020617,45:0F172A,100:0EA5E9&text=THANKS%20FOR%20VISITING&fontSize=34&fontColor=ffffff"/>
 
 </div>
 
