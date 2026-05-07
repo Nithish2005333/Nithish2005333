@@ -46,12 +46,9 @@ const nithishwaran = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nithishwaran&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=6366F1&text_color=CBD5E1"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nithishwaran&hide_border=true&background=0D1117&ring=6366F1&fire=38BDF8&currStreakLabel=93C5FD&sideLabels=CBD5E1&dates=64748B"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nithishwaran&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=6366F1&text_color=CBD5E1&rank_icon=github"/>
 
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishwaran&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishwaran&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1"/>
 
 </div>
 
