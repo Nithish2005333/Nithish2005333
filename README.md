@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,20:0F172A,45:1E293B,75:0EA5E9,100:38BDF8&text=NITHISHWARAN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULLSTACK%20DEVELOPER%20%20•%20%20MERN%20STACK%20ENGINEER%20%20•%20%20UI%20ARCHITECT&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,20:0F172A,45:1E293B,75:0EA5E9,100:38BDF8&text=NITHISHWARAN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULLSTACK%20DEVELOPER%20•%20MERN%20STACK%20ENGINEER&descAlignY=58&descSize=18"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=1000&lines=Building+Premium+Digital+Experiences;Fullstack+Developer+from+India;React+%2B+Node.js+Engineer;Crafting+Modern+UI%2FUX+Systems;Developing+Scalable+Web+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+Premium+Digital+Experiences;Fullstack+Developer+from+India;React+%2B+Node.js+Engineer;Crafting+Modern+UI%2FUX+Systems;Developing+Scalable+Web+Applications"/>
 
 </div>
 
@@ -16,42 +16,42 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FOCUS-FULLSTACK%20DEVELOPMENT-0EA5E9?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-0EA5E9?style=for-the-badge&labelColor=020617"/>
 
-<img src="https://img.shields.io/badge/STACK-MERN%20STACK-111827?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/MERN-STACK-111827?style=for-the-badge&labelColor=020617"/>
 
-<img src="https://img.shields.io/badge/LOCATION-INDIA-38BDF8?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/INDIA-DEVELOPER-38BDF8?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
 ---
 
-# <div align="center">◆ ABOUT ME ◆</div>
+# <div align="center">✦ ABOUT ME ✦</div>
 
 <br/>
 
 <div align="center">
 
-<table border="0">
+<table>
 <tr>
 <td width="55%">
 
 ```yaml
 name: Nithishwaran
 role: Fullstack Developer
-specialization: MERN Stack Engineer
+specialization: MERN Stack
 
 currently_working_on:
   - Placement Preparation Platform
   - Modern React Applications
-  - Backend API Systems
-  - Premium UI/UX Interfaces
+  - Backend API Architecture
+  - Premium UI Systems
 
-passionate_about:
-  - Scalable Architectures
-  - Modern Frontend Systems
+focused_on:
+  - Clean Code
+  - Responsive UI
+  - API Development
   - Performance Optimization
-  - User Experience Design
 ```
 
 </td>
@@ -72,7 +72,7 @@ passionate_about:
 
 ---
 
-# <div align="center">◆ FEATURED PROJECT ◆</div>
+# <div align="center">✦ FEATURED PROJECT ✦</div>
 
 <br/>
 
@@ -80,7 +80,7 @@ passionate_about:
 
 <a href="https://placementapp-0htf.onrender.com/">
 
-<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E293B,100:0EA5E9&height=140&section=header&text=PLACEMENT%20APP&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0F172A,45:1E293B,100:0EA5E9&text=PLACEMENT%20APP&fontSize=42&fontColor=ffffff"/>
 
 </a>
 
@@ -90,9 +90,9 @@ passionate_about:
 
 <div align="center">
 
-### Advanced Placement Preparation Platform
+### Premium Placement Preparation Platform
 
-Premium placement preparation platform designed for students with eligibility checking, study materials, mock tests, authentication systems and preparation workflows.
+Modern web application with authentication, eligibility checking, mock tests, preparation workflows and student management system.
 
 </div>
 
@@ -106,7 +106,7 @@ Premium placement preparation platform designed for students with eligibility ch
 
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://nithish-portfolio-sigma.vercel.app/">
 
@@ -118,7 +118,7 @@ Premium placement preparation platform designed for students with eligibility ch
 
 ---
 
-# <div align="center">◆ TECH STACK ◆</div>
+# <div align="center">✦ TECH STACK ✦</div>
 
 <br/>
 
@@ -128,17 +128,20 @@ Premium placement preparation platform designed for students with eligibility ch
 
 </div>
 
+---
+
+# <div align="center">✦ DEVELOPMENT SKILLS ✦</div>
+
 <br/>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
 
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="55"/>
+<td align="center" width="33%">
 
-### Frontend
+### FRONTEND
 
 React.js  
 Next.js  
@@ -148,39 +151,21 @@ TypeScript
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="55"/>
-
-### Backend
+### BACKEND
 
 Node.js  
 Express.js  
-REST APIs  
-Authentication  
-Server Logic  
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="55"/>
-
-### Database
-
 MongoDB  
 MySQL  
-Firebase  
-Data Modeling  
-Cloud Storage  
+REST APIs  
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="55"/>
-
-### Tools
+### TOOLS
 
 Git  
 GitHub  
@@ -189,6 +174,7 @@ Figma
 VS Code  
 
 </td>
+
 </tr>
 </table>
 
@@ -196,13 +182,15 @@ VS Code
 
 ---
 
-# <div align="center">◆ DEVELOPMENT JOURNEY ◆</div>
+# <div align="center">✦ GITHUB ANALYTICS ✦</div>
 
 <br/>
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithishwaran&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nithishwaran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithishwaran&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617"/>
 
 </div>
 
@@ -210,61 +198,37 @@ VS Code
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithishwaran&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nithishwaran&theme=tokyonight"/>
-
-</div>
-
----
-
-# <div align="center">◆ GITHUB ANALYTICS ◆</div>
-
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nithishwaran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithishwaran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Nithishwaran&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Nithishwaran&theme=tokyonight&hide_border=true&background=020617"/>
 
 </div>
 
 ---
 
-# <div align="center">◆ CONTRIBUTION GRAPH ◆</div>
+# <div align="center">✦ CONTRIBUTION GRAPH ✦</div>
 
 <br/>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nithishwaran&theme=tokyo-night&hide_border=true&bg_color=020617"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nithishwaran&custom_title=Nithishwaran's%20GitHub%20Activity%20Graph&bg_color=020617&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# <div align="center">◆ ACHIEVEMENTS ◆</div>
+# <div align="center">✦ GITHUB TROPHIES ✦</div>
 
 <br/>
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Nithishwaran&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Nithishwaran&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
 ---
 
-# <div align="center">◆ CONNECT WITH ME ◆</div>
+# <div align="center">✦ CONNECT WITH ME ✦</div>
 
 <br/>
 
@@ -294,17 +258,9 @@ VS Code
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img width="70%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,50:1E293B,100:0EA5E9&height=120&section=header&text=LET'S%20BUILD%20SOMETHING%20AMAZING&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
-
 ---
 
-# <div align="center">◆ RESUME ◆</div>
+# <div align="center">✦ RESUME ✦</div>
 
 <br/>
 
@@ -320,7 +276,7 @@ VS Code
 
 ---
 
-# <div align="center">◆ RANDOM DEV QUOTE ◆</div>
+# <div align="center">✦ RANDOM DEV QUOTE ✦</div>
 
 <br/>
 
@@ -332,8 +288,25 @@ VS Code
 
 ---
 
+<br/>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:020617,20:0F172A,45:1E293B,75:0EA5E9,100:38BDF8"/>
+<h2>Thanks for visiting my profile 👨‍💻</h2>
+
+<p>
+I’m passionate about building scalable applications, crafting modern UI/UX experiences,
+and continuously learning new technologies to create impactful digital products.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Have+a+great+day!;Thanks+for+visiting+my+GitHub+Profile;Let's+build+something+amazing+together"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:020617,20:0F172A,45:1E293B,75:0EA5E9,100:38BDF8"/>
 
 </div>
