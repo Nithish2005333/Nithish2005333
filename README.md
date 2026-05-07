@@ -1,6 +1,4 @@
-# PREMIUM MODERN GITHUB README
 
-````markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,40:1E3A8A,100:38BDF8&text=NITHISHWARAN&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20Developer%20•%20UI%20Engineer&descAlignY=60"/>
